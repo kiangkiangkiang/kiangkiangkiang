@@ -46,6 +46,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Project
 
+<p>
+<img src="profileDoc/matlab_sql3.png" width="150" aligh="left" style="float:left" height="130">
+<img src="profileDoc/MissingValue2.png" width="150" aligh="left" style="float:left" height="130">
+<img src="profileDoc/matlab_stocks.png" width="150" aligh="left" style="float:left" height="130">
+<img src="profileDoc/matlab_stocks2.png" width="150" aligh="left" style="float:left" height="130">
+<img src="profileDoc/multivariate2.png" width="150" aligh="left" style="float:left" height="130">
+<img src="profileDoc/django_stocks2.png" width="150" aligh="left" style="float:left" height="130">
+</p>
 
 
+<img src="https://github.com/kiangkiangkiang/Apartment-Recommended-system/blob/main/github_img/dataset1.png?raw=true" width="200" aligh="center">
 ---
