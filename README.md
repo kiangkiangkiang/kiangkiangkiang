@@ -1,37 +1,35 @@
 
     
-## Hello World!
+## <samp>Hello World!</samp>
 
 ---
 <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=kiangkiangkiang&layout=compact&theme=onedark" />
 
-- 👋 Hi there, I’m Luka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 📫 How to reach me ...
-<!---
+- 👋 <samp>Hi there, I’m Luka. Graduated from National Taipei University.</samp>
+- 👨‍💻 <samp>Major : Statistics; Computer Science and Information Engineering.</samp>
+- 🛠 <samp>Interest : Data analysis; Financial technology; Deep Learning; Web Design.</samp>
+- 🙋 <samp>Achievement : The first place about the competitions of National Information Innovative Application made by the Industrial Development Bureau.</samp>
+<!--- 
 kiangkiangkiang/kiangkiangkiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
 ---
-## Things that I'm currently working on
+## <samp>Things that I'm currently working on</samp>
 
-- <em><b>Exploratory Data Analysis</b></em> - <b>Visualize</b> data by a suitable statistic graph using <b>R</b>
-- <em><b>Symbolic Data Analysis</b></em> - Analyze the <b>complex data (interval-valued data)</b> by extension of classical statistic method using <b>R</b>
-- <em><b>Web design</b></em> - Apply the data analysis and use the website format to implement a graphical user interface
-- <em><b>R Package making</b></em> - Generalize the Exploratory Data Analysis to interval-valued data by a customized <b>R</b> package
-- <em><b>Stocks Analysis</b></em> - Crawl the online timely stocks information system for analysis using <b>Python</b>
-- <em><b>Machine Learning</b></em> - <b>Forecast</b> the data with non-parametric method, <b>supervised</b> and <b>unsupervised</b> ML.
-- <em><b>Deep Learning</b></em> - Study and Implement of Basic Theory of <b>Neural Network System</b>
+- <samp><em><b>Exploratory Data Analysis</b></em> - <b>Visualize</b> data by a suitable statistic graph using <b>R</b></samp>
+- <samp><em><b>Symbolic Data Analysis</b></em> - Analyze the <b>complex data (interval-valued data)</b> by extension of classical statistic method using <b>R</b></samp>
+- <samp><em><b>Web design</b></em> - Apply the data analysis and use the website format to implement a graphical user interface</samp>
+- <samp><em><b>R Package making</b></em> - Generalize the Exploratory Data Analysis to interval-valued data by a customized <b>R</b> package</samp>
+- <samp><em><b>Stocks Analysis</b></em> - Crawl the online timely stocks information system for analysis using <b>Python</b></samp>
+- <samp><em><b>Machine Learning</b></em> - <b>Forecast</b> the data with non-parametric method, <b>supervised</b> and <b>unsupervised</b> ML.</samp>
+- <samp><em><b>Deep Learning</b></em> - Study and Implement of Basic Theory of <b>Neural Network System</b></samp>
 
 
 ---
 
-## Programming Languages and Tools
+## <samp>Programming Languages and Tools</samp>
 
 <p>    
     <a href="#"><img alt="R" src="https://img.shields.io/badge/R%20-%2300599R.svg?logo=R%2B%2B&logoColor=white"></a>
@@ -54,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-## Data Analysis Project
+## <samp>Data Analysis Project</samp>
   
   <a href="https://github.com/kiangkiangkiang/ggESDA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=ggESDA&theme=great-gatsby" />
