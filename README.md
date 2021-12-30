@@ -5,7 +5,7 @@
 ---
 <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=kiangkiangkiang&layout=compact&theme=onedark" />
 
-- 👋 Hi, I’m @kiangkiangkiang
+- 👋 Hi there, I’m Luka
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -19,6 +19,16 @@ You can click the Preview link to take a look at your changes.
 
 ---
 ## Things that I'm currently working on
+
+- <em><b>Exploratory Data Analysis</b></em> - <b>Visualize</b> data by a suitable statistic graph using <b>R</b>
+- <em><b>Symbolic Data Analysis</b></em> - Analyze the <b>complex data (interval-valued data)</b> by extension of classical statistic method using <b>R</b>
+- <em><b>Web design</b></em> - Apply the data analysis and use the website format to implement a graphical user interface
+- <em><b>R Package making</b></em> - Generalize the Exploratory Data Analysis to interval-valued data by a customized <b>R</b> package
+- <em><b>Stocks Analysis</b></em> - Crawl the online timely stocks information system for analysis using <b>Python</b>
+- <em><b>Machine Learning</b></em> - <b>Forecast</b> the data with non-parametric method, <b>supervised</b> and <b>unsupervised</b> ML.
+- <em><b>Deep Learning</b></em> - Study and Implement of Basic Theory of <b>Neural Network System</b>
+
+
 ---
 
 ## Programming Languages and Tools
