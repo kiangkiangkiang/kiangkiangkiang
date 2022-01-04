@@ -16,18 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-## <samp>Things that I'm currently working on</samp>
-
-- <samp><em><b>Exploratory Data Analysis (EDA)</b></em> - <b>Visualize</b> data by a suitable statistic graph using <b>R</b></samp>
-- <samp><em><b>Symbolic Data Analysis (SDA)</b></em> - Analyze the <b>complex data (interval-valued data)</b> using <b>R</b></samp>
-- <samp><em><b>Web design</b></em> - Apply the data analysis and use the website format to implement a graphical user interface</samp>
-- <samp><em><b>R Package making</b></em> - Generalize the <b>EDA</b> to interval-valued data by a customized <b>R</b> package</samp>
-- <samp><em><b>Stocks Analysis</b></em> - Crawl the online timely stocks information system for analysis using <b>Python</b></samp>
-- <samp><em><b>Machine Learning</b></em> - <b>Forecast</b> the data with non-parametric method, <b>supervised</b> and <b>unsupervised</b> ML.</samp>
-- <samp><em><b>Deep Learning</b></em> - Study and Implement of Basic Theory of <b>Neural Network System</b></samp>
-
-
----
 
 ## <samp>Programming Languages and Tools</samp>
 
@@ -48,6 +36,18 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+---
+## <samp>Things that I'm currently working on</samp>
+
+- <samp><em><b>Exploratory Data Analysis (EDA)</b></em> - <b>Visualize</b> data by a suitable statistic graph using <b>R</b></samp>
+- <samp><em><b>Symbolic Data Analysis (SDA)</b></em> - Analyze the <b>complex data (interval-valued data)</b> using <b>R</b></samp>
+- <samp><em><b>Web design</b></em> - Apply the data analysis and use the website format to implement a graphical user interface</samp>
+- <samp><em><b>R Package making</b></em> - Generalize the <b>EDA</b> to interval-valued data by a customized <b>R</b> package</samp>
+- <samp><em><b>Stocks Analysis</b></em> - Crawl the online timely stocks information system for analysis using <b>Python</b></samp>
+- <samp><em><b>Machine Learning</b></em> - <b>Forecast</b> the data with non-parametric method, <b>supervised</b> and <b>unsupervised</b> ML.</samp>
+- <samp><em><b>Deep Learning</b></em> - Study and Implement of Basic Theory of <b>Neural Network System</b></samp>
+
+
 
 ---
 
@@ -60,14 +60,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/kiangkiangkiang/Apartment-Recommended-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Apartment-Recommended-system&theme=great-gatsby" />
 </a>
-
   <a href="https://github.com/kiangkiangkiang/RESEARCH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=RESEARCH&theme=great-gatsby" />
 </a>
 <a href="https://github.com/kiangkiangkiang/MATLAB_Stocks_Information_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=MATLAB_Stocks_Information_System&theme=great-gatsby" />
 </a>
-
   <a href="https://github.com/kiangkiangkiang/Statistical-Analysis-System-By-JAVA-and-MySQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Statistical-Analysis-System-By-JAVA-and-MySQL&theme=great-gatsby" />
 </a>
