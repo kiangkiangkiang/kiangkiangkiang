@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <details>	
-  <summary><b>Creat Me</b></summary>
+  <summary><b><samp>Creat Me</samp></b></summary>
     
 ```r
 R6Class(
