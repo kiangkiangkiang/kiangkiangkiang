@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="SAS"  src="https://img.shields.io/badge/SAS%20-%231572B6.svg?logo=sas&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="MySQL"  src="https://img.shields.io/badge/MySQL-%23000000.svg?logo=MySQL&logoColor=white"></a>
+    <!--<a href="#"><img alt="MySQL"  src="https://img.shields.io/badge/MySQL-%23000000.svg?logo=MySQL&logoColor=white"></a>-->
     <a href="#"><img alt="Django"  src="https://img.shields.io/badge/Django%20-%23F7DF1E.svg?logo=Django&logoColor=black"></a>
 </p>
 
