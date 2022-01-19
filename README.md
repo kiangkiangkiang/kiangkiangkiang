@@ -14,7 +14,41 @@ kiangkiangkiang/kiangkiangkiang is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<details>	
+  <summary><b>Creat Me</b></summary>
+    
+```r
+R6Class(
+  classname = "Luka",
+  public = list(
+    #' @field
+    Me = "list",
+    
+    #' @description
+    initialize = function(){
+      print("Passion is the genesis of genius.")
+      self$Me$UserName <- "Luka Jiang"
+      self$Me$Code <- c("R", "Python")
+      self$Me$Country <- "Taiwan"
+      self$Me$Major <- "Statistics"
+      self$Me$Ambitions <- "Data Scientist"
+    },
+    getSkill = function(){
+      return(c("Data Visualization",
+               "Statistical Analysis",
+               "Machine learning"))
+    },
+    getSocial = function(){
+      return(c("Twitch",
+               "Line",
+               "Facebook"))
+    }
+  )
+)
+```
+                           
+</details>
+    
 ---
 
 ## <samp>Programming Languages and Tools</samp>
