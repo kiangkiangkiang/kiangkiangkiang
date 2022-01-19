@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>  
+    <img alt="SQLite" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
     <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%23E34F26.svg?logo=JAVA&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="MATLAB"  src="https://img.shields.io/badge/MATLAB%20-%23E34F26.svg?logo=MATLAB&logoColor=white"></a>
