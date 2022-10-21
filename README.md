@@ -7,7 +7,7 @@
 
 - 👋 <samp>Hi there, I’m Luka. Graduated from National Taipei University.</samp>
 - 👨‍💻 <samp>Major : Statistics; Computer Science and Information Engineering.</samp>
-- 🛠 <samp>Interest : Data analysis; Financial technology; Deep Learning; Web Design.</samp>
+- 🛠 <samp>Interest : Data analysis; Deep Learning; Financial technology.</samp>
 - 🙋 <samp>Achievement : The first place about the competitions of 24th National Information Innovative Application made by the Industrial Development Bureau.</samp>
 <!--- 
 kiangkiangkiang/kiangkiangkiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
