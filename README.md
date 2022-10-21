@@ -5,7 +5,7 @@
 ---
 <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=kiangkiangkiang&layout=compact&theme=onedark" />
 
-- 👋 <samp>Hi there, I’m Luka. A Data scientist or A Data lover.</samp>
+- 👋 <samp>Hi there, I’m Luka. A Data Scientist or A Data Lover.</samp>
 - 👨‍💻 <samp>Major : Statistics; CSIS.</samp>
 - 🛠 <samp>Interest : Data analysis; Deep Learning; Financial technology.</samp>
 - 🙋 <samp>Achievement : The first place about the competitions of 24th National Information Innovative Application made by the Industrial Development Bureau.</samp>
