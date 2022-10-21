@@ -6,9 +6,9 @@
 <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=kiangkiangkiang&layout=compact&theme=onedark" />
 
 - 👋 <samp>Hi there, I’m Luka. A Data Scientist or A Data Lover.</samp>
-- 👨‍💻 <samp>Major : Statistics; CSIS.</samp>
-- 🛠 <samp>Interest : Data analysis; Deep Learning; Financial technology.</samp>
-- 🙋 <samp>Achievement : The first place about the competitions of 24th National Information Innovative Application made by the Industrial Development Bureau.</samp>
+- 👨‍💻 <samp>Major: Data Analysis; Statistics; ML/AI.</samp>
+- 🛠 <samp>Interest: Data analysis; Deep Learning; Financial technology.</samp>
+- 🙋 <samp>Achievement: The first place about the competitions of 24th National Information Innovative Application made by the Industrial Development Bureau.</samp>
 <!--- 
 kiangkiangkiang/kiangkiangkiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
