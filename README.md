@@ -1,6 +1,6 @@
 
     
-## <samp>Hello World!</samp>
+## <samp>Passion is the genesis of genius.</samp>
 
 ---
 <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=kiangkiangkiang&layout=compact&theme=onedark" />
