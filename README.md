@@ -74,8 +74,8 @@ R6Class(
 ---
 ## <samp>Things that I'm currently working on</samp>
 
-- <samp><em><b>Deep Learning</b></em> NLP: BERT, GPT, Transformer<b>Neural Network System</b></samp>
-- <samp><em><b>Python Package</b></em> BERT Summary, Tokenizer, Text Classification </samp>
+- <samp><em><b>Deep Learning</b></em>: NLP, BERT, GPT, Transformer<b>Neural Network System</b></samp>
+- <samp><em><b>Python Package</b></em>: BERT Summary, Tokenizer, Text Classification </samp>
 
 ---
 
