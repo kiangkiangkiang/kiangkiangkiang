@@ -6,7 +6,7 @@
 <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=kiangkiangkiang&layout=compact&theme=onedark" />
 
 - 👋 <samp>Hi there, I’m Luka. A Data Scientist or A Data Lover.</samp>
-- 👨‍💻 <samp>Major: Data Analysis; Statistics; ML/AI.</samp>
+- 👨‍💻 <samp>Major: Data Analysis; Data Scientist.</samp>
 - 🛠 <samp>Interest: Data analysis; Deep Learning; Financial technology.</samp>
 - 🙋 <samp>Achievement: The first place about the competitions of 24th National Information Innovative Application made by the Industrial Development Bureau.</samp>
 <!--- 
@@ -74,15 +74,8 @@ R6Class(
 ---
 ## <samp>Things that I'm currently working on</samp>
 
-- <samp><em><b>Exploratory Data Analysis (EDA)</b></em> - <b>Visualize</b> data by a suitable statistic graph using <b>R</b></samp>
-- <samp><em><b>Symbolic Data Analysis (SDA)</b></em> - Analyze the <b>complex data (interval-valued data)</b> using <b>R</b></samp>
-- <samp><em><b>Web design</b></em> - Apply the data analysis and use the website format to implement a graphical user interface</samp>
-- <samp><em><b>R Package making</b></em> - Generalize the <b>EDA</b> to interval-valued data by a customized <b>R</b> package</samp>
-- <samp><em><b>Stocks Analysis</b></em> - Crawl the online timely stocks information system for analysis using <b>Python</b></samp>
-- <samp><em><b>Machine Learning</b></em> - <b>Forecast</b> the data with non-parametric method, <b>supervised</b> and <b>unsupervised</b> ML.</samp>
-- <samp><em><b>Deep Learning</b></em> - Study and Implement of Basic Theory of <b>Neural Network System</b></samp>
-
-
+- <samp><em><b>Deep Learning</b></em>NLP: BERT, GPT, Transformer<b>Neural Network System</b></samp>
+- <samp><em><b>Python Package</b></em> BERT Summary, Tokenizer, Text Classification </samp>
 
 ---
 
