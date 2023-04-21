@@ -76,6 +76,7 @@ R6Class(
 
 - <samp><em><b>Deep Learning</b></em>: NLP, BERT, GPT, Transformer</samp>
 - <samp><em><b>Research</b></em>: State of the art model </samp>
+- <samp><em><b>Ｒ Package</b></em>: ggESDA, interval-valued analysis, EDA, Visualization</samp>
 - <samp><em><b>Python Package</b></em>: BERT Summary, Tokenizer, Text Classification </samp>
 
 ---
