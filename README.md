@@ -87,6 +87,9 @@ R6Class(
   <a href="https://github.com/kiangkiangkiang/ggESDA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=ggESDA&theme=great-gatsby" />
 </a>
+  <a href="https://github.com/kiangkiangkiang/Two-Stage-Method-For-Chinese-NLP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Two-Stage-Method-For-Chinese-NLP&theme=great-gatsby" />
+</a>
 <a href="https://github.com/kiangkiangkiang/Apartment-Recommended-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Apartment-Recommended-system&theme=great-gatsby" />
 </a>
@@ -95,9 +98,6 @@ R6Class(
 </a>
 <a href="https://github.com/kiangkiangkiang/BERT_Family">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=BERT_Family&theme=great-gatsby" />
-</a>
-  <a href="https://github.com/kiangkiangkiang/Two-Stage-Method-For-Chinese-NLP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Two-Stage-Method-For-Chinese-NLP&theme=great-gatsby" />
 </a>
 <a href="https://github.com/kiangkiangkiang/MATLAB_Database">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=MATLAB_Database&theme=great-gatsby" />
