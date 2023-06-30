@@ -96,8 +96,8 @@ R6Class(
 <a href="https://github.com/kiangkiangkiang/BERT_Family">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=BERT_Family&theme=great-gatsby" />
 </a>
-  <a href="https://github.com/kiangkiangkiang/Statistical-Analysis-System-By-JAVA-and-MySQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Statistical-Analysis-System-By-JAVA-and-MySQL&theme=great-gatsby" />
+  <a href="https://github.com/kiangkiangkiang/Two-Stage-Method-For-Chinese-NLP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Two-Stage-Method-For-Chinese-NLP&theme=great-gatsby" />
 </a>
 <a href="https://github.com/kiangkiangkiang/MATLAB_Database">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=MATLAB_Database&theme=great-gatsby" />
