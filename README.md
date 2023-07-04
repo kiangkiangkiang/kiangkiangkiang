@@ -100,7 +100,7 @@ R6Class(
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=BERT_Family&theme=great-gatsby" />
 </a>
 <a href="https://github.com/kiangkiangkiang/Chinese-Verdict-NLP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Chinese-Verdict-NLP&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Information-Extraction-for-Chinese-NLP&theme=great-gatsby" />
 </a>
   
 
