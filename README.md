@@ -5,10 +5,11 @@
 ---
 <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=kiangkiangkiang&layout=compact&theme=onedark" />
 
-- 👋 <samp>Hi there, I’m Luka. A Data Scientist or A Data Lover.</samp>
-- 👨‍💻 <samp>Major: Data Analysis; Data Scientist.</samp>
-- 🛠 <samp>Interest: Data analysis; Deep Learning; Financial technology.</samp>
-- 🙋 <samp>Achievement: The first place about the competitions of 24th National Information Innovative Application made by the Industrial Development Bureau.</samp>
+- 👋 <samp>Hi there, I’m Luka. A Data Lover.</samp>
+- 👨‍💻 <samp>Major: Data Analysis; Data Scientist; Machine Learning Engineer.</samp>
+- 🛠 <samp>Interest: Data analysis; Deep Learning; MLops.</samp>
+- 🙋 <samp>Experience: Real-World Scenario NLP Tasks: Chatbot (Finetune on Financial Data), Information Extraction/Classification (Legal Data), MLOps (signature verification), Recommendation System.</samp>
+- :cloud: <samp> AWS: Sagemaker, EC2, EMR, EKS, Bedrock, Lambda, API Gateway. </samp>
 <!--- 
 kiangkiangkiang/kiangkiangkiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -54,10 +55,10 @@ R6Class(
 ## <samp>Programming Languages and Tools</samp>
 
 <p>    
-    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
     <a href="#"><img alt="Python"  src="https://img.shields.io/badge/python%20-%23F7DF1E.svg?logo=python&logoColor=black"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23E34F26.svg?logo=AWS&logoColor=white"></a>
+    <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP%20-%231572B6.svg?logo=GCP&logoColor=white"></a>
+    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>  
     <img alt="SQLite" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
     <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%23E34F26.svg?logo=JAVA&logoColor=white"></a>
@@ -74,10 +75,10 @@ R6Class(
 ---
 ## <samp>Things that I'm currently working on</samp>
 
-- <samp><em><b>Deep Learning</b></em>: NLP, BERT, GPT, Transformer</samp>
-- <samp><em><b>Research</b></em>: State of the art model </samp>
+- <samp><em><b>NLP</b></em>: UIE, BERT, GPT, Transformer</samp>
+- <samp><em><b>Cloud</b></em>: AWS, GCP</samp>
+- <samp><em><b>Research</b></em>: Recommendation System, MLOps</samp>
 - <samp><em><b>Ｒ Package</b></em>: ggESDA, interval-valued analysis, EDA, Visualization</samp>
-- <samp><em><b>Python Package</b></em>: BERT Summary, Tokenizer, Text Classification </samp>
 
 ---
 
