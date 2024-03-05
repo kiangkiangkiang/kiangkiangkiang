@@ -97,11 +97,11 @@ R6Class(
 <a href="https://github.com/kiangkiangkiang/Apartment-Recommended-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Apartment-Recommended-system&theme=great-gatsby" />
 </a>
-  <a href="https://github.com/kiangkiangkiang/RESEARCH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=RESEARCH&theme=great-gatsby" />
+  <a href="https://github.com/kiangkiangkiang/AWS-Sagemaker-Face-Detection-Example">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=AWS-Sagemaker-Face-Detection-Example&theme=great-gatsby" />
 </a>
-<a href="https://github.com/kiangkiangkiang/BERT_Family">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=BERT_Family&theme=great-gatsby" />
+<a href="https://github.com/kiangkiangkiang/GCP-Monitor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=GCP-Monitor&theme=great-gatsby" />
 </a>
 
   
