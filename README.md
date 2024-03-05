@@ -75,7 +75,7 @@ R6Class(
 ---
 ## <samp>Things that I'm currently working on</samp>
 
-- <samp><em><b>NLP</b></em>: UIE, BERT, GPT, Transformer</samp>
+- <samp><em><b>NLP</b></em>: Information Extraction, Generation, Classification, RAG</samp>
 - <samp><em><b>Cloud</b></em>: AWS, GCP</samp>
 - <samp><em><b>Research</b></em>: Recommendation System, MLOps</samp>
 - <samp><em><b>Ｒ Package</b></em>: ggESDA, interval-valued analysis, EDA, Visualization</samp>
