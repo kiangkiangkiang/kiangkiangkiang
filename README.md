@@ -83,7 +83,7 @@ R6Class(
 ---
 
 
-## <samp>Data Analysis Project</samp>
+## <samp>Projects & Experiences</samp>
   
   <a href="https://github.com/kiangkiangkiang/ggESDA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=ggESDA&theme=great-gatsby" />
