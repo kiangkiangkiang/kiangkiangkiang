@@ -88,14 +88,14 @@ R6Class(
   <a href="https://github.com/kiangkiangkiang/ggESDA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=ggESDA&theme=great-gatsby" />
 </a>
+<a href="https://github.com/kiangkiangkiang/Machine-Learning-Model-Serving">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Machine-Learning-Model-Serving&theme=great-gatsby" />
+</a>
   <a href="https://github.com/kiangkiangkiang/Two-Stage-Method-For-Chinese-NLP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Two-Stage-Method-For-Chinese-NLP&theme=great-gatsby" />
 </a>
 <a href="https://github.com/kiangkiangkiang/Information-Extraction-for-Chinese-NLP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Information-Extraction-for-Chinese-NLP&theme=great-gatsby" />
-</a>
-<a href="https://github.com/kiangkiangkiang/Apartment-Recommended-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Apartment-Recommended-system&theme=great-gatsby" />
 </a>
   <a href="https://github.com/kiangkiangkiang/AWS-Sagemaker-Face-Detection-Example">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=AWS-Sagemaker-Face-Detection-Example&theme=great-gatsby" />
