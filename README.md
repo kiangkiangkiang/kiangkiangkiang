@@ -84,7 +84,9 @@ R6Class(
 
 
 ## <samp>Projects & Experiences</samp>
-  
+  <a href="https://github.com/kiangkiangkiang/machine-learning-on-k8s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=machine-learning-on-k8s&theme=great-gatsby" />
+</a>
   <a href="https://github.com/kiangkiangkiang/ggESDA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=ggESDA&theme=great-gatsby" />
 </a>
@@ -100,9 +102,7 @@ R6Class(
   <a href="https://github.com/kiangkiangkiang/AWS-Sagemaker-Face-Detection-Example">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=AWS-Sagemaker-Face-Detection-Example&theme=great-gatsby" />
 </a>
-<a href="https://github.com/kiangkiangkiang/GCP-Monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=GCP-Monitor&theme=great-gatsby" />
-</a>
+
 
   
 
