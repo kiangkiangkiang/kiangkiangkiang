@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" src="https://leetcard.jacoblin.cool/kiangkiangkiang?ext=heatmap" />
+<img align="right" src="https://leetcard.jacoblin.cool/kiangkiangkiang?ext=heatmap&font=patrick_hand&theme=transparent" />
 
 - 👋 <samp>Hi, I’m Luka. A Data Lover.</samp>
 
