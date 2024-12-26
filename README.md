@@ -3,19 +3,25 @@
 ## <samp align="center">Passion is the genesis of genius.</samp>
 
 ---
-<img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=kiangkiangkiang&layout=compact&theme=onedark" />
+
+<img align="right" src="https://leetcard.jacoblin.cool/kiangkiangkiang?ext=heatmap" />
 
 - 👋 <samp>Hi, I’m Luka. A Data Lover.</samp>
+
 - 👨‍💻 <samp>Major: Machine Learning Engineer; Data Scientist; AI Software Engineer.</samp>
+
 - 🛠 <samp>Interest: Machine Learning; Deep Learning; MLops.</samp>
+
 - 🙋 <samp>Experience: Cloud, RAG Chatbot, AI Platforms, AI Packages, MLOps Services, Information Extraction/Classification, Kubernetes.</samp>
+
 - :cloud: <samp> AWS: Sagemaker, EC2, EMR, EKS, Bedrock, Lambda, API Gateway. </samp>
 <!--- 
 kiangkiangkiang/kiangkiangkiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-    
+
+
 ---
 
 ## <samp>Skills and Tools</samp>
