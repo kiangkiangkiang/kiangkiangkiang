@@ -14,7 +14,7 @@
 
 - 🙋 <samp>Experience: Cloud, RAG Chatbot, AI Platforms, AI Packages, MLOps Services, Information Extraction/Classification, Kubernetes.</samp>
 
-- :cloud: <samp> AWS: Sagemaker, EC2, EMR, EKS, Bedrock, Lambda, API Gateway. </samp>
+- :cloud: <samp> AWS: EC2, ECS, ECR, Sagemaker, S3, Bedrock, Lambda.</samp>
 <!--- 
 kiangkiangkiang/kiangkiangkiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
