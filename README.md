@@ -48,6 +48,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/kiangkiangkiang/machine-learning-on-k8s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=machine-learning-on-k8s&theme=great-gatsby" />
 </a>
+  <a href="https://github.com/kiangkiangkiang/avatar-chatbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=avatar-chatbot&theme=great-gatsby" />
+</a>
   <a href="https://github.com/kiangkiangkiang/ggESDA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=ggESDA&theme=great-gatsby" />
 </a>
@@ -59,9 +62,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/kiangkiangkiang/Information-Extraction-for-Chinese-NLP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=Information-Extraction-for-Chinese-NLP&theme=great-gatsby" />
-</a>
-  <a href="https://github.com/kiangkiangkiang/AWS-Sagemaker-Face-Detection-Example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiangkiangkiang&repo=AWS-Sagemaker-Face-Detection-Example&theme=great-gatsby" />
 </a>
 
 
